@@ -1,4 +1,4 @@
-baseURL: nostalgic.id.vn
+baseURL: yuhnt.github.io
 languageCode: en-us
 title: sm1le
 theme: PaperMod
@@ -16,7 +16,7 @@ menu:
     - identifier: "Tags"
       name: "Tags"
       url: "/tags/"
-      weight: 30 
+      weight: 30
     - identifier: "Search"
       name: "Search"
       url: "/search/"
@@ -36,9 +36,9 @@ params:
     favicon: /assets/favicon.png
   socialIcons:
     - name: email
-      url: 'mailto:tnh0087@gmail.com'
+      url: "mailto:tnh0087@gmail.com"
     - name: github
-      url: https://github.com/sm1leisnotbad
+      url: https://github.com/yuhnt
 
 taxonomies:
   category: categories
